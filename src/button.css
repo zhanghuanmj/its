@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/**
+ * @file 
+ * @author its-wild(https://gitee.com/its-wild)
+ * @date 2021/05/31
+ */
+.btn {
+    padding: 5px 15px;
+    border: none;
+    background: yellowgreen;
+}
+
