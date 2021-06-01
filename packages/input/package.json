@@ -1,15 +1,15 @@
 {
-  "name": "its-input",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "dayjs": "^1.10.5",
-    "lodash": "4"
-  }
+    "name": "its-input",
+    "version": "0.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "core-js": "^3.13.1",
+        "element-ui": "^2.4.5"
+    }
 }

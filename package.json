@@ -15,7 +15,10 @@
     },
     "main": "index.js",
     "dependencies": {
+        "core-js": "^3.13.1",
         "element-ui": "^2.4.5",
+        "its-button": "file:packages/button",
+        "its-input": "file:packages/input",
         "vue": "^2.6.12"
     },
     "devDependencies": {
